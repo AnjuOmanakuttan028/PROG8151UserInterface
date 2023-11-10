@@ -3,8 +3,10 @@ This is a coming soon page
 
 
 ```bash
+
 npm install
 npm start
+
 ```
 
 
